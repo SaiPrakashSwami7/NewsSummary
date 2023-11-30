@@ -1,0 +1,17 @@
+pip install newsdataapi
+pip install flask
+pip install gensim==3.8.3
+
+challenges 
+language
+input must have more than one sentence
+str or object like (str(text) to remove this error)
+input length
+
+
+https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_sidebar_shift
+
+
+pip install googletrans==3.1.0a0
+
+input must have more than one sentence
